@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1vXISzktXtgIULKuEBAyugevAmY2tX3kE5Pj5TCmQGc=",
+  "Source": "BackGraphQL.Web",
+  "BasePath": "_content/BackGraphQL.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
